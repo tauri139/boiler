@@ -1,3 +1,4 @@
+//Soojusarvutused
 public class Boiler
 {
 	public double maht;
